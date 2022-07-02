@@ -2,10 +2,9 @@ class gIthub {
   
   constructor()
   {
-    this.client_id='4a97ed420be071b335b9';
-    this.client_secret='c43b475022e6dd0f4a0c126b58dab789fb3bd867';
-    this.repos_count=6;
-    
+        this.client_id='c3d17acedcc9acdc37c6';
+        this.client_secret='eb9257e051ae9525f8ab4145800eef63cb1d46af';
+        1this.repos_count=6; 
   }
   
   async getuser(user)
