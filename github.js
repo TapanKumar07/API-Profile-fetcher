@@ -4,7 +4,7 @@ class gIthub {
   {
         this.client_id='c3d17acedcc9acdc37c6';
         this.client_secret='eb9257e051ae9525f8ab4145800eef63cb1d46af';
-        1this.repos_count=6; 
+        this.repos_count=6; 
   }
   
   async getuser(user)
